@@ -1,7 +1,7 @@
-#Time Taken(%):20 ms
-#Memory usage(%):12 MB
-#Your Name(optional):nitinvinayak
-#// Your solution here
+//Time Taken(%):20 ms
+//Memory usage(%):12 MB
+//Your Name(optional):nitinvinayak
+// Your solution here
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
