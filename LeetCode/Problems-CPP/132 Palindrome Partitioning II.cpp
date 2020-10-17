@@ -1,5 +1,5 @@
-//Time Taken(%):4 ms
-//Memory usage(%):7.6 MB
+//Time Taken(%):740 ms
+//Memory usage(%):6.6 MB
 //Your Name(optional):nitinvinayak
 // Your solution here
 class Solution {
