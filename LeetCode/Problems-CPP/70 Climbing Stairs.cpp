@@ -15,3 +15,22 @@ public:
         return dp[n];
     }
 };
+
+// class Solution {
+// public:
+//     int ways(int n,vector<int> &way_list ){
+//         if (n==0 || n==1){
+//             way_list.at(n)=1;
+//             return 1;
+//         }
+//         if (way_list.at(n)!=-1){
+//             return way_list.at(n);
+//         } 
+//         way_list.at(n)=ways(n-1,way_list)+ways(n-2,way_list);
+//         return way_list.at(n);
+//     }
+//     int climbStairs(int n) {
+//         vector<int> way_list(n+1,-1);
+//         return ways(n,way_list);
+//     }
+// };
